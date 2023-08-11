@@ -55,43 +55,33 @@
 }
 
 .task8 .item1 {
-  position: relative;
-}
-.task8 .item2 {
-  position: absolute;
-  height: 120px;
-  right: 0;
-  top: 0;
   float: left;
 }
-
+.task8 .item2 {
+  height: 120px;
+  float: right;
+}
 .task8 p {
   clear: both;
 }
 
 .task9 .item1 {
-  position: relative;
   height: 200px;
   float: left;
 }
 .task9 .item2 {
-  position: absolute;
-  right: 0;
-  top: 0;
+  float: right;
 }
 .task9 p {
   clear: right;
 }
 
 .task10 .item1 {
-  position: relative;
   float: left;
 }
 .task10 .item2 {
-  position: absolute;
+  float: right;
   height: 200px;
-  right: 0;
-  top: 0;
 }
 .task10 p {
   clear: left;
